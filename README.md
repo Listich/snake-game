@@ -1,6 +1,6 @@
 # SDL2 Snake Game
 
-![Titre de la vidéo](gifsnakegame.mp4)
+<img src="gifsnakegame.gif" width="300" height="auto" />
 
 A classic Snake game built from scratch using **C++** and the **SDL2** library. This project focuses on clean game loop logic, grid-based rendering, and progressive difficulty.
 
