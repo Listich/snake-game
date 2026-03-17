@@ -1,6 +1,6 @@
 # SDL2 Snake Game
 
-![alt text](<Capture d’écran 2026-03-16 à 23.57.10.png>)
+<img src="Snake.png">
 
 A classic Snake game built from scratch using **C++** and the **SDL2** library. This project focuses on clean game loop logic, grid-based rendering, and progressive difficulty.
 
